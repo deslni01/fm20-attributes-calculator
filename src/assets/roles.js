@@ -1,7 +1,7 @@
 const roles = [
 
     // Defenders
-    {
+    //{
         /* label: "Außenverteidiger (Verteidigen)",
         id: "r1",
         attributes: {
