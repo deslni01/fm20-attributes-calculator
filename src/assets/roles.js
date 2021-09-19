@@ -3524,6 +3524,7 @@ const roles = [
             }
         }
     },
+    */
     {
         // label: "Zielspieler (Unterstützen)",
         id: "r74",
@@ -3572,7 +3573,7 @@ const roles = [
             }
         }
     },
-    */
+    /*
     {
         // label: "Zielspieler (Angreifen)",
         id: "r75",
@@ -3621,7 +3622,7 @@ const roles = [
             }
         }
     },
-        /*
+        
     {
         // label: "Defensiver Mittelfeldspieler (Verteidigen)",
         id: "r76",
