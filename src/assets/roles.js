@@ -2,7 +2,7 @@ const roles = [
 
     // Defenders
     //{
-        /* label: "Außenverteidiger (Verteidigen)",
+        /* label: "Full-Back (Defend)",
         id: "r1",
         attributes: {
             technical: {
@@ -98,7 +98,7 @@ const roles = [
             }
         }
     },
-        /*
+        
     {
         // label: "Außenverteidiger (Angreifen)",
         id: "r3",
@@ -147,6 +147,7 @@ const roles = [
             }
         }
     },
+    /*
     {
         // label: "Ballspielender Verteidiger (Verteidigen)",
         id: "r4",
@@ -340,6 +341,7 @@ const roles = [
             }
         }
     },
+    */
     {
         // label: "Flügelverteidiger (Unterstützend)",
         id: "r8",
@@ -388,6 +390,7 @@ const roles = [
             }
         }
     },
+    /*
     {
         // label: "Flügelverteidiger (Angreifend)",
         id: "r9",
@@ -1498,6 +1501,7 @@ const roles = [
             }
         }
     },
+    */
     {
         // label: "Ballerobernder Mittelfeldspieler (Verteidigen)",
         id: "r32",
@@ -1546,6 +1550,7 @@ const roles = [
             }
         }
     },
+    /*
     {
         // label: "Ballerobernder Mittelfeldspieler (Unterstützen)",
         id: "r33",
@@ -1882,6 +1887,7 @@ const roles = [
             }
         }
     },
+    */
     {
         // label: "Flügelspieler (Angreifen)",
         id: "r40",
@@ -1930,6 +1936,7 @@ const roles = [
             }
         }
     },
+    /*
     {
         // label: "Inverser Außenstürmer (Unterstützen)",
         id: "r41",
@@ -2125,7 +2132,7 @@ const roles = [
             }
         }
     },
-        /*
+        
     {
         // label: "Mezzala (Unterstützen)",
         id: "r45",
@@ -2174,6 +2181,7 @@ const roles = [
             }
         }
     },
+    /*
     {
         // label: "Mezzala (Angreifen)",
         id: "r46",
@@ -2703,6 +2711,7 @@ const roles = [
             }
         }
     },
+    /*
     {
         // label: "Vorgeschobener Spielmacher (Angreifen)",
         id: "r57",
@@ -2751,7 +2760,7 @@ const roles = [
             }
         }
     },
-        /*
+        
     {
         // label: "Zentraler Mittelfeldspieler (Verteidigen)",
         id: "r58",
@@ -2946,6 +2955,7 @@ const roles = [
             }
         }
     },
+    */
     {
         // label: "Zurückgezogener Spielmacher (Unterstützen)",
         id: "r62",
@@ -2994,7 +3004,7 @@ const roles = [
             }
         }
     },
-
+/*
     // Striker
     {
         // label: "Falsche Neun (Unterstützen)",
@@ -3380,6 +3390,7 @@ const roles = [
             }
         }
     },
+    */
     {
         // label: "Pressender Stürmer (Angreifen)",
         id: "r71",
@@ -3428,6 +3439,7 @@ const roles = [
             }
         }
     },
+    /*
     {
         // label: "Stoßstürmer (Angreifen)",
         id: "r72",
