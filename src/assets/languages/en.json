@@ -44,7 +44,7 @@
         }
     },
     "roles": {
-        //"r1": "Full-Back (Defend)",
+        "r1": "Full-Back (Defend)",
         "r2": "Full-Back (Support)",
         /*"r3": "Full-Back (Attack)",
         "r4": "Ball Playing Defender (Defend)",
